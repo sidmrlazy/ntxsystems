@@ -12,7 +12,7 @@
                     <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="assets/download/pixen.exe" download>Download Pixen</a>
+                    <a class="nav-link" href="assets/download/pixen.zip" download>Download Pixen</a>
                 </li>
                 <!-- <li class="nav-item">
                     <a class="nav-link" href="#">Contact Us</a>
